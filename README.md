@@ -9,6 +9,6 @@ Welcome to the **Snake Game Web App**! This classic arcade-style game lets you c
 ## How to Play
 1. **Start the Game:** Once the game loads, press the **Start** button to begin.
 2. **Control the Snake:** Use the arrow keys (or swipe gestures on mobile) to move the snake in the desired direction.
-3.**Eat the Food:** The snake grows longer each time it eats food, and the score increases accordingly.
+3. **Eat the Food:** The snake grows longer each time it eats food, and the score increases accordingly.
 4. **Avoid Collisions:** The game ends if the snake collides with the walls or its own body.
 5. **Track Your Score:** The real-time score is displayed on the screen. After each game, the **High Score** is updated if you’ve set a new record.
