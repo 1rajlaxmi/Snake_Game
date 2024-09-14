@@ -12,3 +12,10 @@ Welcome to the **Snake Game Web App**! This classic arcade-style game lets you c
 3. **Eat the Food:** The snake grows longer each time it eats food, and the score increases accordingly.
 4. **Avoid Collisions:** The game ends if the snake collides with the walls or its own body.
 5. **Track Your Score:** The real-time score is displayed on the screen. After each game, the **High Score** is updated if you’ve set a new record.
+
+##Demo
+###Home Page
+![Home Page](screen2.png)
+
+###Game Page
+![Game Page](screen.png)    
