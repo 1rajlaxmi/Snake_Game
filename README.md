@@ -14,8 +14,8 @@ Welcome to the **Snake Game Web App**! This classic arcade-style game lets you c
 5. **Track Your Score:** The real-time score is displayed on the screen. After each game, the **High Score** is updated if you’ve set a new record.
 
 ## Demo
-###Home Page
+### Home Page
 ![Home Page](screen2.png)
 
-###Game Page
+### Game Page
 ![Game Page](screen.png)    
