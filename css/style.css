@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.body {
+    background: url(../bg1.jpg);
+    min-height: 100vh;
+    background-size: 100vw 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#board {
+    background: linear-gradient(rgb(164, 235, 164), rgb(223, 172, 105));
+    height: 90vmin;
+    width: 92vmin;
+    border: solid, rgb(70, 49, 4), 3px;
+    display: grid;
+    grid-template-columns: repeat(18, 1fr);
+    grid-template-rows: repeat(18, 1fr);
+}
+
+.shead{
+    background:linear-gradient(rgb(158, 86, 19),rgb(228, 224, 32) );
+    border: 2px solid rgb(181, 78, 190);
+    transform: scale(1.02);
+    border-radius: 9px;
+}
+
+.snake{
+    background: linear-gradient(rgb(227, 51, 243),rgb(211, 122, 233));
+    border: .25vmin solid white;
+    border-radius: 12px;
+}
+
+.food{
+    background: linear-gradient(rgb(228, 38, 38),rgb(190, 115, 156));
+    border: .25vmin solid  red;
+    border-radius: 12px;
+}
+
+#scoreBox{
+    position: absolute;
+    top: 9px;
+    font-size: 40px;
+    font-weight: bolder;
+    color: aliceblue;
+    right: 200px;
+}
+#HscoreBox{
+    position: absolute;
+    top: 50px;
+    font-size: 40px;
+    font-weight: bolder;
+    color: aliceblue;
+    right: 130px;
+}
